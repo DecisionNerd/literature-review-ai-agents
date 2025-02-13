@@ -4,7 +4,7 @@ By David Spencer, February 2025
 
 - [A Literature Review of Artificial Intelligence Assistant Human Labor Augmentation and Extension and Autonomous Agents as a Human Labor Alternative](#a-literature-review-of-artificial-intelligence-assistant-human-labor-augmentation-and-extension-and-autonomous-agents-as-a-human-labor-alternative)
   - [Abstract](#abstract)
-  - [Topics](#topics)
+  - [Subjects](#subjects)
   - [Introduction](#introduction)
   - [Technical versus Marketing Definition](#technical-versus-marketing-definition)
   - [AI Assistants and Research Tools](#ai-assistants-and-research-tools)
@@ -46,7 +46,9 @@ By David Spencer, February 2025
 
 TODO: Abstract
 
-## Topics
+## Subjects
+
+Computation and Language (cs.CL); Artificial Intelligence (cs.AI); Computers and Society (cs.CY)
 
 ## Introduction
 

@@ -1,37 +1,35 @@
-<!-- MARP Slides overview of LitReview/1-paper.md -->
-
 ---
-
 marp: true
 theme: default
 paginate: true
 header: "AI Agents: Labor Augmentation & Automation"
 footer: "David Spencer, FamilySearch International - Feb 2025"
 style: |
-section {
-font-size: 1.5em;
-}
-h1 {
-font-size: 1.8em;
-color: #333;
-}
-h2 {
-font-size: 1.5em;
-color: #444;
-}
-.columns {
-display: grid;
-grid-template-columns: repeat(2, minmax(0, 1fr));
-gap: 1rem;
-}
-.columns-list {
-display: grid;
-grid-template-columns: repeat(2, minmax(0, 1fr));
-gap: 1rem;
-list-style-position: inside;
-}
-
+  section {
+    font-size: 1.5em;
+  }
+  h1 {
+    font-size: 1.8em;
+    color: #333;
+  }
+  h2 {
+    font-size: 1.5em;
+    color: #444;
+  }
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+  }
+  .columns-list {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    list-style-position: inside;
+  }
 ---
+
+<!-- MARP Slides overview of LitReview/1-paper.md -->
 
 # AI Agents: Labor Augmentation & Automation
 

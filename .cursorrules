@@ -1,0 +1,85 @@
+# Assignment Tasks
+
+Create a comprehensive literature review examining the dual role of artificial intelligence in the workplace: as an augmentative tool for human labor and as an autonomous alternative. The review should synthesize findings from academic research, industry implementations, and venture capital perspectives to investigate:
+
+1. The technical foundations, current capabilities, and future trajectories of AI agents and assistants
+2. The dichotomy between technical and marketing definitions of AI agency
+3. Enterprise implementations across major technology companies and consulting firms
+4. Venture capital insights into market dynamics and implementation patterns
+5. Practical implications for quality control in automated historical research, particularly in family history social network analysis
+
+The review should integrate perspectives from:
+
+- Academic papers and preprints (particularly from arXiv)
+- Industry white papers and technical documentation
+- Commercial product analyses
+- Venture capital research and market analyses
+- Professional services implementation case studies
+
+The end use case focuses on quality control for automated historical research related to family history social network analysis, with particular attention to:
+
+- The reliability of AI agents in historical research contexts
+- The balance between automation and human oversight
+- Best practices for implementing AI assistance in genealogical research
+- Implications for social network analysis in historical contexts
+
+## Writing Style
+
+### Structure and Organization
+
+The literature review should be organized thematically rather than chronologically or by source type. Each paragraph should:
+
+- Begin with a clear topic sentence that introduces the main idea
+- Present supporting evidence and analysis
+- End with a transition that connects to the next topic
+- Maintain coherent flow between paragraphs and sections
+
+### Language and Tone
+
+Write in a clear, professional style that bridges academic rigor with accessibility:
+
+- Use precise, specific language while avoiding unnecessary jargon
+- Define technical terms on first use
+- Maintain an objective, analytical voice
+- Present balanced perspectives when discussing contrasting views
+- Use active voice predominantly, with passive voice only when emphasis on the action rather than the actor is warranted
+
+### Presentation of Information
+
+Present all information in well-structured prose paragraphs:
+
+- Transform any list-like information into flowing narrative text
+- Integrate examples and evidence smoothly into paragraphs
+- Use transitional phrases to connect ideas within and between paragraphs
+- Present complex ideas progressively, building understanding through careful explanation
+
+### Critical Analysis
+
+Demonstrate scholarly depth through:
+
+- Synthesis of multiple sources to support key points
+- Evaluation of the strength and limitations of different approaches
+- Identification of patterns, themes, and gaps in the literature
+- Clear articulation of how different sources relate to each other
+- Discussion of implications for the field of AI-assisted historical research
+
+### Accessibility
+
+While maintaining academic rigor, ensure the writing is accessible to an educated general audience:
+
+- Break down complex concepts into understandable components
+- Use concrete examples to illustrate abstract ideas
+- Provide context for specialized knowledge
+- Create clear logical progression of ideas
+- Use analogies where appropriate to explain technical concepts
+
+## Citations
+
+Please follow the Chicago Author-Date citation style as detailed in `LitReview/citation-guide.md`. This ensures:
+
+1. Consistent formatting of in-text citations
+2. Properly structured bibliography entries
+3. Appropriate handling of different source types (academic papers, preprints, blogs)
+4. Clear attribution of all sources
+
+For specific examples and formatting rules, refer to the citation guide.

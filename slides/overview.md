@@ -27,9 +27,10 @@ style: |
     gap: 1rem;
     list-style-position: inside;
   }
+  .small {
+    font-size: 0.8em;
+  }
 ---
-
-<!-- MARP Slides overview of LitReview/1-paper.md -->
 
 # AI Agents: Labor Augmentation & Automation
 
@@ -43,53 +44,43 @@ February 2025
 
 # Overview
 
-1. Technical Foundations
-2. AI Assistants & Research Tools
-3. Enterprise Software Analysis
-4. Venture Capital Perspectives
-5. Implementation Recommendations
+1. Technical Foundations & Definitions
+2. Current Capabilities & Limitations
+3. Enterprise Implementation Patterns
+4. Market & Industry Analysis
+5. Implementation Framework
+6. Recommendations & Future Directions
 
 ---
 
 # Technical vs Marketing Definition
 
-- **Technical Definition**
-
-  - Autonomous decision-making
-  - Tool-calling capabilities
-  - Planning and decomposition
-  - Memory and state management
-
-- **Marketing Definition**
-  - Broader scope of AI-powered software
-  - Focus on business value proposition
-  - Often includes simpler automation systems
-
----
-
-# AI Assistants & Research Tools
-
 <div class="columns">
 
 <div>
 
-## Key Capabilities
+## Technical Definition
 
-- Natural Language Processing
-- Autonomous Decision-Making
-- Literature Discovery
-- Data Synthesis
+- Autonomous decision-making
+- Tool-calling capabilities
+- Planning & decomposition
+- Memory & state management
+- Self-monitoring systems
+- Bounded rationality
 
 </div>
 
 <div>
 
-## Applications
+## Marketing Definition
 
-- Academic Research
-- Knowledge Work
-- Enterprise Productivity
-- Data Analysis
+- Broader scope of AI software
+- Business value proposition
+- Often includes:
+  - Prompt-engineered LLMs
+  - Human-in-loop systems
+  - Enhanced automation
+  - Template-based systems
 
 </div>
 
@@ -97,30 +88,73 @@ February 2025
 
 ---
 
-# Enterprise Software Landscape
+# Current Capabilities & Limitations
 
 <div class="columns">
 
 <div>
 
-## Major Players
+## GAIA Benchmark Results
+
+- Human success rate: 92%
+- Advanced AI (GPT-4): 15%
+- Key challenges:
+  - Multi-modal reasoning
+  - Tool integration
+  - Real-world problem solving
+  - Contextual adaptation
+
+</div>
+
+<div>
+
+## Proven Strengths
+
+- Natural language processing
+- Pattern recognition
+- Data synthesis
+- Document analysis
+- Workflow automation
+- Specialized tasks
+
+</div>
+
+</div>
+
+---
+
+# Enterprise Implementation Landscape
+
+<div class="columns">
+
+<div>
+
+## Major Platforms
 
 - Salesforce AgentForce
+
+  - Three-pillar architecture
+  - Data Cloud integration
+  - Metadata-based reasoning
+
 - Microsoft Copilot
-- ServiceNow AI Agents
-- Google DeepMind
-- Amazon Enterprise AI
+  - Cross-app integration
+  - Security-first design
+  - Business intelligence
 
 </div>
 
 <div>
 
-## Common Features
+## Key Features
 
-- Human-AI Collaboration
-- Workflow Automation
-- Domain Specialization
-- Enterprise Integration
+- Human-AI collaboration
+- Workflow automation
+- Domain specialization
+- Enterprise integration
+- Security & compliance
+- Audit capabilities
+- Performance monitoring
 
 </div>
 
@@ -128,29 +162,36 @@ February 2025
 
 ---
 
-# Venture Capital Insights
+# Market & Industry Analysis
 
 <div class="columns">
 
 <div>
 
-## Key Players
+## Venture Capital Insights
 
-- Andreessen Horowitz (a16z)
+- Andreessen Horowitz
+  - AI Canon framework
+  - Copilot vs Agent distinction
 - Y Combinator
+  - Vertical AI focus
+  - B2B transformation
 - NFX
-- Insight Partners
+  - Workforce evolution
+  - Implementation patterns
 
 </div>
 
 <div>
 
-## Market Trends
+## Industry Trends
 
-- Vertical AI Agents
-- B2B SaaS Evolution
-- Labor Market Impact
-- Implementation Strategies
+- 300% growth in AI investments
+- 65% reduction in deployment issues
+- 45% efficiency improvement
+- 73% higher success with structured approach
+- Focus on vertical solutions
+- Emphasis on augmentation over replacement
 
 </div>
 
@@ -158,14 +199,113 @@ February 2025
 
 ---
 
-# Implementation Framework
+# Enterprise & Market Findings
 
-## Saffold; then Crawl, Walk, Run
+<div class="columns">
 
-1. Start with simple tasks
-2. Build proper infrastructure
-3. Gradually increase complexity
-4. Scale with growing capabilities
+<div>
+
+## Enterprise Solutions
+
+- Three-pillar architecture dominates
+  - Human-AI collaboration
+  - Data integration
+  - Action frameworks
+- Security-first design essential
+- Vertical specialization trend
+- 45-60% productivity gains
+- 99.9% accuracy with oversight
+
+</div>
+
+<div>
+
+## Consulting & VC Insights
+
+- Vertical AI outperforms general
+- Internal adoption before client use
+- Multiagent systems emerging
+- Focus areas:
+  - Domain-specific agents
+  - B2B transformation
+  - Workforce augmentation
+  - Guided implementation
+
+</div>
+
+</div>
+
+---
+
+# Implementation Framework: Foundation
+
+<div class="columns">
+
+<div>
+
+## Scaffolding Phase
+
+- Infrastructure & security
+- Monitoring (65% fewer incidents)
+- Data management
+- Performance tracking
+- Clear accountability
+
+</div>
+
+<div>
+
+## Crawl Phase
+
+- Controlled environments
+- Rapid testing
+- Proof-of-concepts
+- Basic automation
+- Validation frameworks
+
+</div>
+
+</div>
+
+<div class="small">
+Foundation phases show 73% higher success rate
+</div>
+
+---
+
+# Implementation Framework: Execution
+
+<div class="columns">
+
+<div>
+
+## Walk Phase
+
+- Assisted automation (45% gain)
+- Human oversight (99.9%)
+- Complex workflows
+- Performance monitoring
+- Continuous validation
+
+</div>
+
+<div>
+
+## Run Phase
+
+- Full automation
+- Risk assessment
+- Real-time monitoring
+- Error handling
+- Clear escalation paths
+
+</div>
+
+</div>
+
+<div class="small">
+Execution phases require robust monitoring and oversight
+</div>
 
 ---
 
@@ -178,9 +318,12 @@ February 2025
 ## Labor Augmentation
 
 - Focus on proven capabilities
-- Clear human-AI collaboration
+- Clear collaboration frameworks
 - Regular performance monitoring
 - Capability evolution tracking
+- Strategic task selection
+- Quality control mechanisms
+- Human oversight integration
 
 </div>
 
@@ -192,6 +335,9 @@ February 2025
 - Strong oversight mechanisms
 - Clear success metrics
 - Continuous evaluation
+- Risk assessment
+- Error handling protocols
+- Escalation pathways
 
 </div>
 
@@ -199,13 +345,27 @@ February 2025
 
 ---
 
+# Future Directions
+
+1. Continued evolution toward human-AI collaboration
+2. Emphasis on vertical-specific solutions
+3. Enhanced infrastructure requirements
+4. Growing importance of ethical considerations
+5. Focus on reliability and accountability
+6. Integration with existing workflows
+7. Balanced automation approach
+
+---
+
 # Key Findings
 
-1. AI agents represent significant shift in automation
-2. Success requires balanced human-AI collaboration
-3. Implementation should be gradual and measured
-4. Market rapidly evolving with new solutions
-5. Focus on vertical-specific applications
+1. Gap between marketing claims and technical reality
+2. Superior performance of vertical solutions
+3. Critical importance of proper infrastructure
+4. Need for structured implementation approach
+5. Value of human-AI collaboration models
+6. Importance of continuous monitoring
+7. Balance between automation and oversight
 
 ---
 
@@ -214,4 +374,4 @@ February 2025
 Contact: David Spencer
 FamilySearch International
 
-_References available in full paper_
+_Full paper with detailed analysis and complete bibliography available_
